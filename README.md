@@ -1,16 +1,13 @@
-# magic8balls
+# Magic Balls
 
-A new Flutter project.
+![RzWF8T6660](https://user-images.githubusercontent.com/72740598/229724849-4814fedc-8d0a-4051-a9ca-aed1057f900f.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a simple flutter application, where you can get answeres for the questions in your mind. Enjoy it!!!
 
-A few resources to get you started if this is your first Flutter project:
+## You will find
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Stateless Flutter Widgets
+- Statefull Flutter Widgets
+- Set State Method in Dart:Flutter
+- Dart Math Library
